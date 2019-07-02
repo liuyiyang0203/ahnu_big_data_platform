@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="648bc81d-4b1d-4bf7-a67e-5c57ff325926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/mediaelementplayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/Untitled-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/about_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/blob_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/blob_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/hero_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/img_2_big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/img_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/img_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/img_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/person_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/person_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/person_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/slide_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/slide_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/slide_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/slide_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/undraw_teacher.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/undraw_teaching.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/undraw_youtube_tutorial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/mediaelement-and-player.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/js/typed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/_site-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/_site-blocks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/_site-navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/static/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../douban/douban/spiders/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../split/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/7.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/8.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.wav/9.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.mp3/November 14, 2018 at 14_46_04.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.mp3/November 14, 2018 at 14_46_37.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.mp3/November 14, 2018 at 14_49_52.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.mp3/November 14, 2018 at 14_49_59.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.wav/November 14, 2018 at 14_46_04.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.wav/November 14, 2018 at 14_46_37.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.wav/November 14, 2018 at 14_49_52.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/test.wav/November 14, 2018 at 14_49_59.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.mp3/9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/7.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/8.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech recognition/women.wav/9.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speech/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speech/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speech/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speech/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/templates/speechapp/speech.html" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/templates/speechapp/speech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech/speechapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/speechapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/bin/ffmpeg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/bin/ffplay.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/bin/ffprobe.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/developer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/fate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-bitstream-filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-codecs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-devices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-formats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-protocols.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-resampler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-scaler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg-utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffmpeg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffplay-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffprobe-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/ffprobe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/general.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/git-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libavcodec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libavdevice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libavfilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libavformat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libavutil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libswresample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/libswscale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/mailing-list-faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/nut.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/platform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/doc/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/ffprobe.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/libvpx-1080p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/libvpx-1080p50_60.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/libvpx-360p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/libvpx-720p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/ffmpeg/presets/libvpx-720p50_60.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/December 28, 2018 at 19_40_25.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/men.mp3/December 28, 2018 at 19_40_38.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/test.mp3/November 14, 2018 at 14_46_04.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/test.mp3/November 14, 2018 at 14_46_37.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/test.mp3/November 14, 2018 at 14_49_52.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/test.mp3/November 14, 2018 at 14_49_59.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/December 28, 2018 at 19_40_25.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech recognition/women.mp3/December 28, 2018 at 19_40_38.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speech/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speech/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speech/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/7.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/8.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/men.wav/9.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/test.wav/November 14, 2018 at 14_46_04.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/test.wav/November 14, 2018 at 14_46_37.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/test.wav/November 14, 2018 at 14_49_52.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/test.wav/November 14, 2018 at 14_49_59.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/7.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/8.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speech_recognition/women.wav/9.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/templates/speechapp/speech.html" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/templates/speechapp/speech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech1/speechapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech1/speechapp/views.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ahnu_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ahnu_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ahnu_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ahnu_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-203">
+              <caret line="689" column="40" selection-start-line="689" selection-start-column="28" selection-end-line="689" selection-end-column="40" />
+              <folding>
+                <element signature="e#3557#3563#0#HTML" expanded="true" />
+                <element signature="e#3563#3569#0#HTML" expanded="true" />
+                <element signature="e#3569#3575#0#HTML" expanded="true" />
+                <element signature="e#3575#3581#0#HTML" expanded="true" />
+                <element signature="e#3581#3587#0#HTML" expanded="true" />
+                <element signature="e#3587#3593#0#HTML" expanded="true" />
+                <element signature="e#3593#3599#0#HTML" expanded="true" />
+                <element signature="e#3599#3605#0#HTML" expanded="true" />
+                <element signature="e#4185#4191#0#HTML" expanded="true" />
+                <element signature="e#4191#4197#0#HTML" expanded="true" />
+                <element signature="e#4197#4203#0#HTML" expanded="true" />
+                <element signature="e#4203#4209#0#HTML" expanded="true" />
+                <element signature="e#4209#4215#0#HTML" expanded="true" />
+                <element signature="e#4215#4221#0#HTML" expanded="true" />
+                <element signature="e#4221#4227#0#HTML" expanded="true" />
+                <element signature="e#4227#4233#0#HTML" expanded="true" />
+                <element signature="e#4750#4756#0#HTML" expanded="true" />
+                <element signature="e#4756#4762#0#HTML" expanded="true" />
+                <element signature="e#4762#4768#0#HTML" expanded="true" />
+                <element signature="e#4768#4774#0#HTML" expanded="true" />
+                <element signature="e#4774#4780#0#HTML" expanded="true" />
+                <element signature="e#4780#4786#0#HTML" expanded="true" />
+                <element signature="e#4786#4792#0#HTML" expanded="true" />
+                <element signature="e#4792#4798#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="405" column="18" lean-forward="true" selection-start-line="396" selection-start-column="13" selection-end-line="405" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#19211#19217#0#HTML" expanded="true" />
+                <element signature="e#19217#19223#0#HTML" expanded="true" />
+                <element signature="e#19223#19229#0#HTML" expanded="true" />
+                <element signature="e#19229#19235#0#HTML" expanded="true" />
+                <element signature="e#19235#19241#0#HTML" expanded="true" />
+                <element signature="e#19241#19247#0#HTML" expanded="true" />
+                <element signature="e#19247#19253#0#HTML" expanded="true" />
+                <element signature="e#19253#19259#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-257">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/login.html" />
+        <option value="$PROJECT_DIR$/ahnu_big_data_platform/__init__.py" />
+        <option value="D:/python37/Lib/site-packages/django/db/backends/mysql/base.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/models.py" />
+        <option value="$PROJECT_DIR$/ahnu_big_data_platform/settings.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html" />
+        <option value="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_forms.scss" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/course-single.html" />
+        <option value="D:/python37/Lib/site-packages/django/db/backends/mysql/operations.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/big_data.html" />
+        <option value="$PROJECT_DIR$/ahnuapp/urls.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/views.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_image.scss" />
+        <option value="$PROJECT_DIR$/ahnuapp/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievements.html" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="640" />
+    <option name="y" value="180" />
+    <option name="width" value="1300" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reservation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reservation" type="462c0819:PsiDirectoryNode" />
+              <item name="reservation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reservation" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\templates\ahnuapp" />
+      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\static\images" />
+      <recent name="D:\python\reservation\reservationapp\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ahnu_big_data_platform" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ahnu_big_data_platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ahnu_big_data_platform.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648bc81d-4b1d-4bf7-a67e-5c57ff325926" name="Default Changelist" comment="" />
+      <created>1561856116168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561856116168</updated>
+      <workItem from="1561856117823" duration="268000" />
+      <workItem from="1561856401176" duration="7135000" />
+      <workItem from="1561863782406" duration="8871000" />
+      <workItem from="1561940117936" duration="8786000" />
+      <workItem from="1561963222972" duration="6377000" />
+      <workItem from="1561974992161" duration="3495000" />
+      <workItem from="1562027765269" duration="9085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44017000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2419571" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.26203966" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/about_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/hero_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_2_big.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/fonts/icomoon/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/blob_2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/blob_1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_transparent.png" />
+    <entry file="file://$PROJECT_DIR$/ahnu_big_data_platform/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/site-packages/django/db/backends/mysql/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/site-packages/django/contrib/auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservation/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <caret line="105" column="6" lean-forward="true" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c4f473bd-f201-4069-8ef1-52ac170feef1/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://c4f473bd-f201-4069-8ef1-52ac170feef1/schema/ahnu_db/table/auth_user_user_permissions" />
+    <entry file="das://c4f473bd-f201-4069-8ef1-52ac170feef1/schema/ahnu_db/table/auth_user_groups" />
+    <entry file="das://c4f473bd-f201-4069-8ef1-52ac170feef1/schema/ahnu_db/table/auth_user" />
+    <entry file="das://47ee6ace-e1ae-4105-bb04-3198cc3008da/schema/db/table/reservationapp_ruser" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/47ee6ace-e1ae-4105-bb04-3198cc3008da/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13ae1cb7-cdfb-45ab-af23-fe8412bd1f96/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnu_big_data_platform/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1144">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://13ae1cb7-cdfb-45ab-af23-fe8412bd1f96/schema/ahnu_db/table/ahnuapp_ruser">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_transparent.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/username.png" />
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" column="88" lean-forward="true" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/static/img/exit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/course-single.html" />
+    <entry file="file://D:/python37/Lib/site-packages/django/db/backends/mysql/operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="150" column="35" lean-forward="true" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="629" column="1" selection-start-line="629" selection-start-column="1" selection-end-line="629" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_image.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/_images.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7137">
+          <caret line="399" column="17" lean-forward="true" selection-start-line="399" selection-start-column="17" selection-end-line="399" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/static/css/index1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="405" column="18" lean-forward="true" selection-start-line="396" selection-start-column="13" selection-end-line="405" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19211#19217#0#HTML" expanded="true" />
+            <element signature="e#19217#19223#0#HTML" expanded="true" />
+            <element signature="e#19223#19229#0#HTML" expanded="true" />
+            <element signature="e#19229#19235#0#HTML" expanded="true" />
+            <element signature="e#19235#19241#0#HTML" expanded="true" />
+            <element signature="e#19241#19247#0#HTML" expanded="true" />
+            <element signature="e#19247#19253#0#HTML" expanded="true" />
+            <element signature="e#19253#19259#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="689" column="40" selection-start-line="689" selection-start-column="28" selection-end-line="689" selection-end-column="40" />
+          <folding>
+            <element signature="e#3557#3563#0#HTML" expanded="true" />
+            <element signature="e#3563#3569#0#HTML" expanded="true" />
+            <element signature="e#3569#3575#0#HTML" expanded="true" />
+            <element signature="e#3575#3581#0#HTML" expanded="true" />
+            <element signature="e#3581#3587#0#HTML" expanded="true" />
+            <element signature="e#3587#3593#0#HTML" expanded="true" />
+            <element signature="e#3593#3599#0#HTML" expanded="true" />
+            <element signature="e#3599#3605#0#HTML" expanded="true" />
+            <element signature="e#4185#4191#0#HTML" expanded="true" />
+            <element signature="e#4191#4197#0#HTML" expanded="true" />
+            <element signature="e#4197#4203#0#HTML" expanded="true" />
+            <element signature="e#4203#4209#0#HTML" expanded="true" />
+            <element signature="e#4209#4215#0#HTML" expanded="true" />
+            <element signature="e#4215#4221#0#HTML" expanded="true" />
+            <element signature="e#4221#4227#0#HTML" expanded="true" />
+            <element signature="e#4227#4233#0#HTML" expanded="true" />
+            <element signature="e#4750#4756#0#HTML" expanded="true" />
+            <element signature="e#4756#4762#0#HTML" expanded="true" />
+            <element signature="e#4762#4768#0#HTML" expanded="true" />
+            <element signature="e#4768#4774#0#HTML" expanded="true" />
+            <element signature="e#4774#4780#0#HTML" expanded="true" />
+            <element signature="e#4780#4786#0#HTML" expanded="true" />
+            <element signature="e#4786#4792#0#HTML" expanded="true" />
+            <element signature="e#4792#4798#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

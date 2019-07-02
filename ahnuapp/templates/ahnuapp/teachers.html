@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>科研大数据平台</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <!-- <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet"> -->
+    <link rel="stylesheet" href="../../static/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../static/css/jquery-ui.css">
+    <link rel="stylesheet" href="../../static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../../static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../../static/css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="../../static/css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="../../static/css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="../../static/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../../static/css/aos.css">
+
+    <link rel="stylesheet" href="../../static/css/style.css">
+
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container-fluid">
+        <div class="d-flex align-items-center">
+          <div class="site-logo mr-auto w-25"><a href="{% url 'teachers' %}">科研大数据平台</a></div>
+
+          <div class="mx-auto text-center">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+              <ul class="site-menu main-menu js-clone-nav mx-auto d-none d-lg-block  m-0 p-0">
+                <li><a href="#home-section" class="nav-link">师资队伍</a></li>
+                <li><a href="{% url 'achievements' %}" class="nav-link">科研成果</a></li>
+{#                <li><a href="#programs-section" class="nav-link">Programs</a></li>#}
+{#                <li><a href="#teachers-section" class="nav-link">Teachers</a></li>#}
+              </ul>
+            </nav>
+          </div>
+
+          <div class="ml-auto w-25">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+              <ul class="site-menu main-menu site-menu-dark js-clone-nav mr-auto d-none d-lg-block m-0 p-0">
+                <li class="cta"><a href="{% url 'user_logout' %}" class="nav-link"><span>退出登录</span></a></li>
+              </ul>
+            </nav>
+            <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a>
+          </div>
+        </div>
+      </div>
+
+    </header>
+
+    <div class="intro-section single-cover" id="home-section">
+
+      <div class="slide-1 " style="background-image: url('../../static/images/img_2.jpg');" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-12">
+              <div class="row justify-content-center align-items-center text-center">
+                <div class="col-lg-6">
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学院现有在职教职工84人，其中专任教师61人，教授12人（含二级教授1人），副教授20人，博士31人(含在读)，有海外背景教师18人，博士生导师5人，硕士生导师25人。</p>
+                </div>
+
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mb-5">
+
+            <div class="mb-5">
+              <h3 class="text-black">“图灵论坛”系列系列学术报告</h3>
+              <p class="mb-4">
+                <strong class="text-black mr-3"></strong>图/吕成梅
+              </p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计信学院定期举办“图灵论坛”系列学术报告，邀请各方向资深专家进行学术报告。左图为计信学院师生在聆听美国拉萨尔大学汪洋副教授报告。右图为中国科学院遥感与数字地球研究所遥感科学国家重点实验室特聘研究员、博士生导师、陈锟山教授应邀做了一场精彩报告。</p>
+{#              <p></p>#}
+{#              <p></p>#}
+              <div class="row mb-4">
+                <div class="col-md-6">
+                  <img src="../../static/images/img_1.png" alt="Image" class="img-fluid rounded">
+                </div>
+                <div class="col-md-6">
+                  <img src="../../static/images/img_2.png" alt="Image" class="img-fluid rounded">
+                </div>
+              </div>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;整个报告会上，教授们严谨的科研内容、突出的研究成果吸引了在场的参会人员，赢得了与会师生的热烈掌声。最后，教授们与在场的老师和同学们进行了积极的讨论与交流，回答了各位老师和同学关注的热点和难点问题，让聆听报告的师生们受益匪浅。</p>
+{#                <p></p>#}
+{#              <p class="mt-4"><a href="#" class="btn btn-primary">Admission</a></p>#}
+            </div>
+
+{#            <div class="pt-5">#}
+{#              <h3 class="mb-5">6 Comments</h3>#}
+{#              <ul class="comment-list">#}
+{#                <li class="comment">#}
+{#                  <div class="vcard bio">#}
+{#                    <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                  </div>#}
+{#                  <div class="comment-body">#}
+{#                    <h3>Jean Doe</h3>#}
+{#                    <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                    <p><a href="#" class="reply">Reply</a></p>#}
+{#                  </div>#}
+{#                </li>#}
+{##}
+{#                <li class="comment">#}
+{#                  <div class="vcard bio">#}
+{#                    <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                  </div>#}
+{#                  <div class="comment-body">#}
+{#                    <h3>Jean Doe</h3>#}
+{#                    <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                    <p><a href="#" class="reply">Reply</a></p>#}
+{#                  </div>#}
+{##}
+{#                  <ul class="children">#}
+{#                    <li class="comment">#}
+{#                      <div class="vcard bio">#}
+{#                        <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                      </div>#}
+{#                      <div class="comment-body">#}
+{#                        <h3>Jean Doe</h3>#}
+{#                        <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                        <p><a href="#" class="reply">Reply</a></p>#}
+{#                      </div>#}
+{##}
+{##}
+{#                      <ul class="children">#}
+{#                        <li class="comment">#}
+{#                          <div class="vcard bio">#}
+{#                            <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                          </div>#}
+{#                          <div class="comment-body">#}
+{#                            <h3>Jean Doe</h3>#}
+{#                            <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                            <p><a href="#" class="reply">Reply</a></p>#}
+{#                          </div>#}
+{##}
+{#                            <ul class="children">#}
+{#                              <li class="comment">#}
+{#                                <div class="vcard bio">#}
+{#                                  <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                                </div>#}
+{#                                <div class="comment-body">#}
+{#                                  <h3>Jean Doe</h3>#}
+{#                                  <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                                  <p><a href="#" class="reply">Reply</a></p>#}
+{#                                </div>#}
+{#                              </li>#}
+{#                            </ul>#}
+{#                        </li>#}
+{#                      </ul>#}
+{#                    </li>#}
+{#                  </ul>#}
+{#                </li>#}
+{##}
+{#                <li class="comment">#}
+{#                  <div class="vcard bio">#}
+{#                    <img src="../../static/images/person_1.png" alt="Image placeholder">#}
+{#                  </div>#}
+{#                  <div class="comment-body">#}
+{#                    <h3>Jean Doe</h3>#}
+{#                    <div class="meta">January 9, 2018 at 2:21pm</div>#}
+{#                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>#}
+{#                    <p><a href="#" class="reply">Reply</a></p>#}
+{#                  </div>#}
+{#                </li>#}
+{#              </ul>#}
+{#              <!-- END comment-list -->#}
+{##}
+{#              <div class="comment-form-wrap pt-5">#}
+{#                <h3 class="mb-5">Leave a comment</h3>#}
+{#                <form action="#" class="p-5 bg-light">#}
+{#                  <div class="form-group">#}
+{#                    <label for="name">Name *</label>#}
+{#                    <input type="text" class="form-control" id="name">#}
+{#                  </div>#}
+{#                  <div class="form-group">#}
+{#                    <label for="email">Email *</label>#}
+{#                    <input type="email" class="form-control" id="email">#}
+{#                  </div>#}
+{#                  <div class="form-group">#}
+{#                    <label for="website">Website</label>#}
+{#                    <input type="url" class="form-control" id="website">#}
+{#                  </div>#}
+{##}
+{#                  <div class="form-group">#}
+{#                    <label for="message">Message</label>#}
+{#                    <textarea name="" id="message" cols="30" rows="10" class="form-control"></textarea>#}
+{#                  </div>#}
+{#                  <div class="form-group">#}
+{#                    <input type="submit" value="Post Comment" class="btn btn-primary">#}
+{#                  </div>#}
+{##}
+{#                </form>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{##}
+{##}
+{#          </div>#}
+{#          <div class="col-lg-4 pl-lg-5">#}
+{##}
+{#            <div class="mb-5 text-center border rounded course-instructor">#}
+{#              <h3 class="mb-5 text-black text-uppercase h6 border-bottom pb-3">Course Instructor</h3>#}
+{#              <div class="mb-4 text-center">#}
+{#                <img src="../../static/images/person_2.png" alt="Image" class="w-25 rounded-circle mb-4">#}
+{#                <h3 class="h5 text-black mb-4">Christine Downeyy</h3>#}
+{#                <p>Lorem ipsum dolor sit amet sectetur adipisicing elit. Ipsa porro expedita libero pariatur vero eos.</p>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+           </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section courses-title bg-dark" id="courses-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="">
+            <h2 class="section-title">研究生导师团队</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="site-section courses-entry-wrap"  data-aos="fade" data-aos-delay="100">
+      <div class="container">
+        <div class="row">
+
+          <div class="owl-carousel col-12 nonloop-block-14">
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_2.png" alt="Image" height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">罗永龙</a></h3>
+                <p>主要研究方向：信息安全、空间数据处理</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_3.png" alt="Image" height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">方群</a></h3>
+                <p>主要研究方向：可信计算、云计算与物联网安全、环保物联网</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_1.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">陈付龙</a></h3>
+                <p>主要研究方向：嵌入式与普适计算，信息物理融合系统，高性能计算机体系结构，物联网安全</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_4.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">何昕</a></h3>
+                <p>主要研究方向：无源通信网络、网络信息论、编码、无线感知技术</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_5.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">许勇</a></h3>
+                <p>主要研究方向：高性能计算机网络协议，无线网络协议，网络安全，现代教育技术</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+            <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_6.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">王杨</a></h3>
+                <p>主要研究方向：计算机软件与理论</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_7.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">张佩云</a></h3>
+                <p>主要研究方向：云计算、大数据处理、区块链、服务计算、智能信息处理</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_8.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">郑逍遥</a></h3>
+                <p>主要研究方向：信息安全、个性化推荐、社交网络</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_9.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">章一磊</a></h3>
+                <p>主要研究方向：软件工程、云计算、大数据、机器学习</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_10.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">程桂花</a></h3>
+                <p>主要研究方向：信息安全、RFID与物联网</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_11.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">俞庆英</a></h3>
+                <p>主要研究方向：空间数据处理、信息安全</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_12.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">卞维新</a></h3>
+                <p>主要研究方向：机器学习、模式识别与图像处理</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_13.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">陈传明</a></h3>
+                <p>主要研究方向：数据挖掘，智能计算，生物信息</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_14.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">丁新涛</a></h3>
+                <p>主要研究方向：深度学习、机器人视觉</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_15.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">郭良敏</a></h3>
+                <p>主要研究方向：信息安全、服务推荐、云计算等</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_16.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">杭后俊</a></h3>
+                <p>主要研究方向：计算机图形学、数字图象处理、虚拟现实</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_17.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">接标</a></h3>
+                <p>主要研究方向：机器学习、模式识别、数据挖掘和图像分析</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_18.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">齐雪梅</a></h3>
+                <p>主要研究方向：智能调度、量子计算和嵌入式系统</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_19.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">孙丽萍</a></h3>
+                <p>主要研究方向：空间数据处理、智能计算</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/person_20.png" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">王涛春</a></h3>
+                <p>主要研究方向：隐私保护、无线传感器网络、群智感知</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">赵传信</a></h3>
+                <p>主要研究方向：体域网技术、网络资源分配与优化、智能优化算法应用</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">左开中</a></h3>
+                <p>主要研究方向：信息安全与隐私保护、物联网、机器学习、三值光学计算机</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">汪小寒</a></h3>
+                <p>主要研究方向：智能计算、信息安全</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">李旺根</a></h3>
+                <p>主要研究方向：生物计算、智能计算</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+
+              <div class="course bg-white h-100 align-self-stretch">
+              <figure class="m-0">
+                <a href="course-single.html"><img src="../../static/images/" alt="Image"  height="200" width="200"></a>
+              </figure>
+              <div class="course-inner-text py-4 px-4">
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+                <h3><a href="#">孙道清</a></h3>
+                <p>主要研究方向：计算机应用、计算机网络安全、普适计算</p>
+              </div>
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+            </div>
+          </div>
+
+
+
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-7 text-center">
+            <button class="customPrevBtn btn btn-primary m-1">上一个</button>
+            <button class="customNextBtn btn btn-primary m-1">下一个</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer-section bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>关于安徽师范大学</h3>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安徽师范大学是安徽建校最早的高等学府。学校坐落在具有“徽风皖韵、千湖之城”美誉的国家级开放城市——芜湖，濒临浩瀚长江，傍依灵秀赭山，集江南自然之神秀、汇安徽人文之灵杰，是安徽省人民政府与教育部共建高校、国家“中西部高校基础能力建设工程”项目建设高校，是安徽省委省政府优先建设的省属重点综合性大学和安徽省“地方高水平大学”项目建设高校。</p>
+          </div>
+
+          <div class="col-md-3 ml-auto">
+            <h3>链接</h3>
+            <ul class="list-unstyled footer-links">
+              <li><a href="#home-section">返回首页</a></li>
+              <li><a href="#courses-section">研究生导师团队</a></li>
+{#              <li><a href="#">Programs</a></li>#}
+{#              <li><a href="#">Teachers</a></li>#}
+            </ul>
+          </div>
+
+{#          <div class="col-md-4">#}
+{#            <h3>Subscribe</h3>#}
+{#            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt iure iusto architecto? Numquam, natus?</p>#}
+{#            <form action="#" class="footer-subscribe">#}
+{#              <div class="d-flex mb-5">#}
+{#                <input type="text" class="form-control rounded-0" placeholder="Email">#}
+{#                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">#}
+{#              </div>#}
+{#            </form>#}
+{#          </div>#}
+
+        </div>
+
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+
+
+  </div> <!-- .site-wrap -->
+
+  <script src="../../static/js/jquery-3.3.1.min.js"></script>
+  <script src="../../static/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../../static/js/jquery-ui.js"></script>
+  <script src="../../static/js/popper.min.js"></script>
+  <script src="../../static/js/bootstrap.min.js"></script>
+  <script src="../../static/js/owl.carousel.min.js"></script>
+  <script src="../../static/js/jquery.stellar.min.js"></script>
+  <script src="../../static/js/jquery.countdown.min.js"></script>
+  <script src="../../static/js/bootstrap-datepicker.min.js"></script>
+  <script src="../../static/js/jquery.easing.1.3.js"></script>
+  <script src="../../static/js/aos.js"></script>
+  <script src="../../static/js/jquery.fancybox.min.js"></script>
+  <script src="../../static/js/jquery.sticky.js"></script>
+
+
+  <script src="../../static/js/main.js"></script>
+
+  </body>
+</html>

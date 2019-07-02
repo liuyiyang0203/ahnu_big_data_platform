@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>科研大数据平台</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="../../static/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../static/css/jquery-ui.css">
+    <link rel="stylesheet" href="../../static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../../static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../../static/css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="../../static/css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="../../static/css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="../../static/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../../static/css/aos.css">
+
+    <link rel="stylesheet" href="../../static/css/style.css">
+
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container-fluid">
+        <div class="d-flex align-items-center">
+          <div class="site-logo mr-auto w-25"><a href="../index">科研大数据平台</a></div>
+
+          <div class="mx-auto text-center">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+              <ul class="site-menu main-menu js-clone-nav mx-auto d-none d-lg-block  m-0 p-0">
+                <li><a href="#home-section" class="nav-link">首页</a></li>
+{#                <li><a href="#courses-section" class="nav-link">Courses</a></li>#}
+                <li><a href="#programs-section" class="nav-link">学院概况</a></li>
+                <li><a href="#teachers-section" class="nav-link">机构概况</a></li>
+              </ul>
+            </nav>
+          </div>
+
+          <div class="ml-auto w-25">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+              <ul class="site-menu main-menu site-menu-dark js-clone-nav mr-auto d-none d-lg-block m-0 p-0">
+                <li class="cta"><a href="#contact-section" class="nav-link"><span>联系我们</span></a></li>
+              </ul>
+            </nav>
+            <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a>
+          </div>
+        </div>
+      </div>
+
+    </header>
+
+    <div class="intro-section" id="home-section">
+
+      <div class="slide-1" style="background-image: url('../../static/images/hero_1.jpg');" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-12">
+              <div class="row align-items-center">
+                <div class="col-lg-6 mb-4">
+                  <h1  data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;安徽师范大学</h1>
+                  <h1  data-aos="fade-up" data-aos-delay="100">计算机与信息学院</h1>
+                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">--------------------------计时启航，信达天下</p>
+{#                  <p data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-primary py-3 px-5 btn-pill">Admission Now</a></p>#}
+
+                </div>
+
+                <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="500">
+                  <form action="/index/" method="post" class="form-box">
+                      {% csrf_token %}
+                    <h3 class="h4 text-black mb-4">登录</h3>
+                    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="请输入用户名" name="username">
+                    </div>
+                    <div class="form-group">
+                      <input type="password" class="form-control" placeholder="请输入密码" name="password">
+                    </div>
+                    <div class="form-group mb-4">
+                     <input type="password" class="form-control" placeholder="请再次输入密码" name="password_again">
+                    </div>
+                    <div class="form-group">
+                      <input type="submit" class="btn btn-primary btn-pill" value="登录">
+                    <div style="color:red;">{{ error_msg }}</div>
+                    </div>
+                  </form>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+{#    <div class="site-section courses-title" id="courses-section">#}
+{#      <div class="container">#}
+{#        <div class="row mb-5 justify-content-center">#}
+{#          <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="">#}
+{#            <h2 class="section-title">Courses</h2>#}
+{#          </div>#}
+{#        </div>#}
+{#      </div>#}
+{#    </div>#}
+{#    <div class="site-section courses-entry-wrap"  data-aos="fade-up" data-aos-delay="100">#}
+{#      <div class="container">#}
+{#        <div class="row">#}
+{##}
+{#          <div class="owl-carousel col-12 nonloop-block-14">#}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_1.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">Study Law of Physics</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_2.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$99</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">Logo Design Course</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_3.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$99</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">JS Programming Language</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{##}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_4.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$20</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">Study Law of Physics</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_5.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$99</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">Logo Design Course</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{#            <div class="course bg-white h-100 align-self-stretch">#}
+{#              <figure class="m-0">#}
+{#                <a href="course-single.html"><img src="../../static/images/img_6.jpg" alt="Image" class="img-fluid"></a>#}
+{#              </figure>#}
+{#              <div class="course-inner-text py-4 px-4">#}
+{#                <span class="course-price">$99</span>#}
+{#                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>#}
+{#                <h3><a href="#">JS Programming Language</a></h3>#}
+{#                <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>#}
+{#              </div>#}
+{#              <div class="d-flex border-top stats">#}
+{#                <div class="py-3 px-4"><span class="icon-users"></span> 2,193 students</div>#}
+{#                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>#}
+{#              </div>#}
+{#            </div>#}
+{##}
+{#          </div>#}
+{##}
+{##}
+{##}
+{#        </div>#}
+{#        <div class="row justify-content-center">#}
+{#          <div class="col-7 text-center">#}
+{#            <button class="customPrevBtn btn btn-primary m-1">Prev</button>#}
+{#            <button class="customNextBtn btn btn-primary m-1">Next</button>#}
+{#          </div>#}
+{#        </div>#}
+{#      </div>#}
+{#    </div>#}
+
+
+    <div class="site-section" id="programs-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-lg-7 text-center"  data-aos="fade-up" data-aos-delay="">
+            <h2 class="section-title">学院概况</h2>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机与信息学院是学校主动适应国家发展大局和战略调整,积极融入地方经济社会转型和创新发展,实现创新型IT人才培养的跨越式发展，由计算机类专业组建成立的新学院。学校依托数学专业早在上世纪50年代就开始了计算机学科的研究。</p>
+          </div>
+        </div>
+        <div class="row mb-5 align-items-center">
+          <div class="col-lg-7 mb-5" data-aos="fade-up" data-aos-delay="100">
+            <img src="../../static/images/undraw_youtube_tutorial.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
+            <h2 class="text-black mb-4">计算机科学与技术</h2>
+            <p class="mb-4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本专业主要课程有：程序设计、离散数学、数据结构、算法分析与设计、操作系统、计算机组成与体系结构、计算机网络、软件工程、数据库原理等核心课程，密码学、网络与信息安全、计算机病毒、计算机图形学、数字图像处理、虚拟现实、嵌入式系统、物联网技术、嵌入式软件开发等方向课程，以及计算机应用、计算机组装与维护、单片机应用系统设计、Web设计与开发、移动应用设计与开发、大型应用系统设计与开发等实训课程。</p>
+
+            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
+              <div><h3 class="m-0">毕业生一次性就业率保持在98%以上</h3></div>
+            </div>
+
+            <div class="d-flex align-items-center custom-icon-wrap">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
+              <div><h3 class="m-0">专业学制四年，毕业授予工学学士学位</h3></div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="row mb-5 align-items-center">
+          <div class="col-lg-7 mb-5 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
+            <img src="../../static/images/undraw_teaching.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-4 mr-auto order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+            <h2 class="text-black mb-4">软件工程</h2>
+            <p class="mb-4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本专业主要课程有：离散数学、C/C++程序设计、Java面向对象程序设计、数据结构、计算机组成原理、数据库原理、操作系统、计算机网络、软件工程等专业基础课程；软件需求工程、软件设计与体系结构、软件测试、软件项目管理等专业课程；计算机基本技能实践、程序设计实践、数据结构与算法实践、软件系统开发实践和软件工程项目实践等实践课程；Web前端开发、Web应用开发、移动应用开发、Python程序设计、大数据技术原理与应用和机器学习等方向课程。</p>
+
+            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
+              <div><h3 class="m-0">毕业生一次就业率保持在97%以上</h3></div>
+            </div>
+
+            <div class="d-flex align-items-center custom-icon-wrap">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
+              <div><h3 class="m-0">专业学制四年，毕业授予工学学士学位</h3></div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="row mb-5 align-items-center">
+          <div class="col-lg-7 mb-5" data-aos="fade-up" data-aos-delay="100">
+            <img src="../../static/images/undraw_teacher.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
+            <h2 class="text-black mb-4">互联网工程</h2>
+            <p class="mb-4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本专业主要课程有：通信原理、计算机网络、传感器、RFID、传感网、嵌入式系统和物联网工程设计与实践等专业核心课程，并开设云计算、大数据、机器人等方向的选修课程，授课内容紧跟社会需求。</p>
+
+            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
+              <div><h3 class="m-0">保研率达到7.14%，考研达线率46.7%</h3></div>
+            </div>
+
+            <div class="d-flex align-items-center custom-icon-wrap">
+              <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
+              <div><h3 class="m-0">专业学制四年，毕业授予工学学士学位</h3></div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="site-section" id="teachers-section">
+      <div class="container">
+
+        <div class="row mb-5 justify-content-center">
+          <div class="col-lg-7 mb-5 text-center"  data-aos="fade-up" data-aos-delay="">
+            <h2 class="section-title">机构概况</h2>
+            <p class="mb-5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学院拥有1个安徽省重点实验室（网络与信息安全安徽省重点实验室）和1个省级实验教学示范中心（安徽省计算机基础公共课实验教学示范中心），设立网络与信息安全工程技术研究中心、高性能计算研究中心、计算机科学与技术研究所、瑞信软件研究所等校级科研机构。</p>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="teacher text-center">
+              <img src="../../static/images/person_1.png" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4 ">
+              <div class="py-2">
+                <h3 class="text-black">陈付龙</h3>
+                <p class="position">教学副院长</p>
+                <p>陈付龙，男，1978年生，安徽霍邱人，博士，教授，硕士生导师，安徽省学术和技术带头人后备人选。现为安徽师范大学计算机与信息学院副院长，网络与信息安全安徽省重点实验室副主任。</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="teacher text-center">
+              <img src="../../static/images/person_2.png" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <div class="py-2">
+                <h3 class="text-black">罗永龙</h3>
+                <p class="position">院长</p>
+                <p>罗永龙，男，1972年生，安徽太湖人，博士，二级教授，博士生导师，安徽省学术和技术带头人。现任安徽师范大学计算机与信息学院院长，网络与信息安全安徽省重点实验室主任。安徽省计算机学会常务理事，安徽省信息化专家咨询委员会委员。</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="teacher text-center">
+              <img src="../../static/images/person_3.png" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <div class="py-2">
+                <h3 class="text-black">方群</h3>
+                <p class="position">科研副院长</p>
+                <p>方群，男，1972年5月出生，博士，教授，硕士生导师。现任计算机与信息学院副院长。此外兼任芜湖市计算机学会秘书长、芜湖市信息化协会副秘书长及网络安全分会会长。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+{#    <div class="site-section bg-image overlay" style="background-image: url('../../static/images/hero_1.jpg');">#}
+{#      <div class="container">#}
+{#        <div class="row justify-content-center align-items-center">#}
+{#          <div class="col-md-8 text-center testimony">#}
+{#            <img src="../../static/images/person_4.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">#}
+{#            <h3 class="mb-4">Jerome Jensen</h3>#}
+{#            <blockquote>#}
+{#              <p>&ldquo; Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem soluta sit eius necessitatibus voluptate excepturi beatae ad eveniet sapiente impedit quae modi quo provident odit molestias! Rem reprehenderit assumenda &rdquo;</p>#}
+{#            </blockquote>#}
+{#          </div>#}
+{#        </div>#}
+{#      </div>#}
+{#    </div>#}
+
+    <div class="site-section pb-0">
+
+      <div class="future-blobs">
+        <div class="blob_2">
+          <img src="../../static/images/blob_2.svg" alt="Image">
+        </div>
+        <div class="blob_1">
+          <img src="../../static/images/blob_1.svg" alt="Image">
+        </div>
+      </div>
+      <div class="container">
+        <div class="row mb-5 justify-content-center" data-aos="fade-up" data-aos-delay="">
+          <div class="col-lg-7 text-center">
+            <h2 class="section-title">人才培养</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 ml-auto align-self-start"  data-aos="fade-up" data-aos-delay="100">
+
+            <div class="p-4 rounded bg-white why-choose-us-box">
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
+                <div><h3 class="m-0">拥有在校全日制本科学生1315人（含留学生4人）</h3></div>
+              </div>
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
+                <div><h3 class="m-0">拥有研究生77人（含留学生4人）</h3></div>
+              </div>
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
+                <div><h3 class="m-0">学生共获得各类竞赛国家级奖项140余项，省级奖项210余项</h3></div>
+              </div>
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
+                <div><h3 class="m-0">教师共授权发明专利78件、授权实用新型45件,获批软件著作权173件</h3></div>
+              </div>
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
+                <div><h3 class="m-0">教师共发表学术论文629余篇，其中SCI/EI检索283篇次</h3></div>
+              </div>
+
+              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light">
+                <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
+                <div><h3 class="m-0">教师承担省级质量工程与教学改革项目15项（其中教学研究项目7项），在科学出版社、高等教育出版社等高级别出版社出版教材18部</h3></div>
+              </div>
+
+            </div>
+
+
+          </div>
+          <div class="col-lg-7 align-self-end"  data-aos="fade-left" data-aos-delay="200">
+            <img src="../../static/images/person_transparent.jpg" alt="Image" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+    <div class="site-section bg-light" id="contact-section">
+      <div class="container">
+
+        <div class="row justify-content-center">
+          <div class="col-md-7">
+
+
+
+            <h2 class="section-title mb-3">联系我们</h2>
+            <p class="mb-5">如果你也想加入计算机与信息学院大家庭，请联系我们：</p>
+
+            <form action="" method="post" data-aos="fade">
+              <div class="form-group row">
+                <div class="col-md-6 mb-3 mb-lg-0">
+                  <input type="text" class="form-control" placeholder="姓">
+                </div>
+                <div class="col-md-6">
+                  <input type="text" class="form-control" placeholder="名字">
+                </div>
+              </div>
+
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <input type="text" class="form-control" placeholder="联系方式">
+                </div>
+              </div>
+
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <input type="email" class="form-control" placeholder="邮箱">
+                </div>
+              </div>
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <textarea class="form-control" id="" cols="30" rows="10" placeholder="请写下你的信息"></textarea>
+                </div>
+              </div>
+
+              <div class="form-group row">
+                <div class="col-md-6">
+                    {% csrf_token %}
+                  <input type="submit" class="btn btn-primary py-3 px-5 btn-block btn-pill" value="发送">
+                </div>
+              </div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <footer class="footer-section bg-white">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>关于安徽师范大学</h3>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安徽师范大学是安徽建校最早的高等学府。学校坐落在具有“徽风皖韵、千湖之城”美誉的国家级开放城市——芜湖，濒临浩瀚长江，傍依灵秀赭山，集江南自然之神秀、汇安徽人文之灵杰，是安徽省人民政府与教育部共建高校、国家“中西部高校基础能力建设工程”项目建设高校，是安徽省委省政府优先建设的省属重点综合性大学和安徽省“地方高水平大学”项目建设高校。</p>
+          </div>
+
+          <div class="col-md-3 ml-auto">
+            <h3>链接</h3>
+            <ul class="list-unstyled footer-links">
+              <li><a href="#home-section">返回首页</a></li>
+{#              <li><a href="#">Courses</a></li>#}
+              <li><a href="#programs-section">学院概况</a></li>
+              <li><a href="#teachers-section">机构概况</a></li>
+            </ul>
+          </div>
+
+{#          <div class="col-md-4">#}
+{#            <h3>Subscribe</h3>#}
+{#            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt iure iusto architecto? Numquam, natus?</p>#}
+{#            <form action="#" class="footer-subscribe">#}
+{#              <div class="d-flex mb-5">#}
+{#                <input type="text" class="form-control rounded-0" placeholder="Email">#}
+{#                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">#}
+{#              </div>#}
+{#            </form>#}
+{#          </div>#}
+
+        </div>
+
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+
+
+  </div> <!-- .site-wrap -->
+
+  <script src="../../static/js/jquery-3.3.1.min.js"></script>
+  <script src="../../static/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../../static/js/jquery-ui.js"></script>
+  <script src="../../static/js/popper.min.js"></script>
+  <script src="../../static/js/bootstrap.min.js"></script>
+  <script src="../../static/js/owl.carousel.min.js"></script>
+  <script src="../../static/js/jquery.stellar.min.js"></script>
+  <script src="../../static/js/jquery.countdown.min.js"></script>
+  <script src="../../static/js/bootstrap-datepicker.min.js"></script>
+  <script src="../../static/js/jquery.easing.1.3.js"></script>
+  <script src="../../static/js/aos.js"></script>
+  <script src="../../static/js/jquery.fancybox.min.js"></script>
+  <script src="../../static/js/jquery.sticky.js"></script>
+
+
+  <script src="../../static/js/main.js"></script>
+
+  </body>
+</html>
