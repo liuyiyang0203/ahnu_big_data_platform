@@ -6,3 +6,10 @@ from django.contrib.auth.models import AbstractUser
 
 class RUser(AbstractUser):
     pass
+
+class Teacher(models.Model):
+    name = models.CharField(max_length=10)
+    title = models.CharField(max_length=1000)
+    publish = models.CharField(max_length=100)
+    year = models.CharField(max_length=100)
+    url_link = models.CharField(max_length=10000)
