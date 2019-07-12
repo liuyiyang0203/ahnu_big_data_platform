@@ -78,8 +78,8 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
-                  <p data-aos="fade-up" data-aos-delay="100"><a href="#" class="text-white"></a></p>
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院方群</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，1972年5月出生，博士，教授，硕士生导师。现任计算机与信息学院副院长。此外兼任芜湖市计算机学会秘书长、芜湖市信息化协会副秘书长及网络安全分会会长。</p>
                 </div>
 
 
@@ -102,9 +102,7 @@
                 <strong class="text-black mr-3">E-mail:</strong>fq0520@ahnu.edu.cn
               </p>
                 {% for i in teacher2 %}
-              <i>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</i>
-                    <br/>
-                <a href={{ i.url_link }}>{{ i.url_link }}</a>
+              <a href={{ i.url_link }}>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</a>
                     <br/><br/>
                 {% endfor %}
               <div class="row mb-4">

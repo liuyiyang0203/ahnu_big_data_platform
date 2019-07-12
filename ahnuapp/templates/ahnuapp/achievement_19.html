@@ -78,8 +78,8 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
-                  <p data-aos="fade-up" data-aos-delay="100"><a href="#" class="text-white"></a></p>
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院孙丽萍</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;女，1980年生，博士，教授，博士生导师。现为安徽师范大学计算机与信息学院计算机科学与技术系主任、计算机科学与技术专业负责人。</p>
                 </div>
 
 
@@ -102,9 +102,7 @@
                 <strong class="text-black mr-3">E-mail:</strong>slp620@163.com
               </p>
                 {% for i in teacher19 %}
-              <i>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</i>
-                    <br/>
-                <a href={{ i.url_link }}>{{ i.url_link }}</a>
+              <a href={{ i.url_link }}>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</a>
                     <br/><br/>
                 {% endfor %}
               <div class="row mb-4">

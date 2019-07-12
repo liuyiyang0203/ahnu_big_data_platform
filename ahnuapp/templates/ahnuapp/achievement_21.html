@@ -78,8 +78,8 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
-                  <p data-aos="fade-up" data-aos-delay="100"><a href="#" class="text-white"></a></p>
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院赵传信</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，计算机应用技术博士，硕士生导师，安徽师范大学网络工程系副教授。</p>
                 </div>
 
 
@@ -102,9 +102,7 @@
                 <strong class="text-black mr-3">E-mail:</strong>zcxonline@126.com
               </p>
                 {% for i in teacher21 %}
-              <i>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</i>
-                    <br/>
-                <a href={{ i.url_link }}>{{ i.url_link }}</a>
+              <a href={{ i.url_link }}>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</a>
                     <br/><br/>
                 {% endfor %}
               <div class="row mb-4">

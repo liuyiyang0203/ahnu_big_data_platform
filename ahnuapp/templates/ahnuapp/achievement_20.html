@@ -78,8 +78,8 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
-                  <p data-aos="fade-up" data-aos-delay="100"><a href="#" class="text-white"></a></p>
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院王涛春</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，1979年生，安徽无为人，博士，教授，博士生导师。现为安徽师范大学计算机与信息学院教师，软件工程系副主任。</p>
                 </div>
 
 
@@ -102,9 +102,7 @@
                 <strong class="text-black mr-3">E-mail:</strong>wangtc@ahnu.edu.cn
               </p>
                 {% for i in teacher20 %}
-              <i>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</i>
-                    <br/>
-                <a href={{ i.url_link }}>{{ i.url_link }}</a>
+              <a href={{ i.url_link }}>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</a>
                     <br/><br/>
                 {% endfor %}
               <div class="row mb-4">

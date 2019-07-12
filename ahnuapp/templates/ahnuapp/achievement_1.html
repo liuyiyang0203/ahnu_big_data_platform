@@ -78,8 +78,8 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院</h1>
-                  <p data-aos="fade-up" data-aos-delay="100"><a href="#" class="text-white"></a></p>
+                  <h1 data-aos="fade-up" data-aos-delay="0">计算机与信息学院罗永龙</h1>
+                  <p data-aos="fade-up" data-aos-delay="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，1972年生，安徽太湖人，博士，二级教授，博士生导师，安徽省学术和技术带头人。现任安徽师范大学计算机与信息学院院长，网络与信息安全安徽省重点实验室主任。安徽省计算机学会常务理事，安徽省信息化专家咨询委员会委员。</p>
                 </div>
 
 
@@ -102,9 +102,7 @@
                 <strong class="text-black mr-3">E-mail:</strong>ylluo@ustc.edu.cn
               </p>
                 {% for i in teacher1 %}
-              <i>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</i>
-                    <br/>
-                <a href={{ i.url_link }}>{{ i.url_link }}</a>
+                <a href={{ i.url_link }}>{{ i.title }}-----{{ i.publish }}-----{{ i.year }}</a>
                     <br/><br/>
                 {% endfor %}
               <div class="row mb-4">
