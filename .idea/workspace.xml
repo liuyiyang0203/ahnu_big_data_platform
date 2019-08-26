@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="648bc81d-4b1d-4bf7-a67e-5c57ff325926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ahnuapp/static/images/person_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/chars.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../douban/douban/spiders/douban.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../split/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ahnu_big_data_platform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ahnu_big_data_platform.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/15247314-0a95-483e-8aeb-bd3ba58635be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_10.html" afterDir="false" />
@@ -31,31 +37,12 @@
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahnuapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahnuapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ahnuapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reservation/.idea/reservation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/.idea/reservation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reservation/reservation/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservation/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/css/index1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/css/index2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/css/index3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/exit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/head1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/house.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/password.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/school.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/static/img/username.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reservation/reservationapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reservation/reservationapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../speech/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../speech/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../speech/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../speech/speech recognition/men.mp3/1.mp3" beforeDir="false" />
@@ -234,7 +221,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ahnu_big_data_platform$spider_paper2.coverage" NAME="spider_paper2 Coverage Results" MODIFIED="1562755281656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/ahnu_big_data_platform$spider_paper.coverage" NAME="spider_paper Coverage Results" MODIFIED="1562815010105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
-    <SUITE FILE_PATH="coverage/ahnu_big_data_platform$settings.coverage" NAME="settings Coverage Results" MODIFIED="1562135713402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../reservation/reservation" />
+    <SUITE FILE_PATH="coverage/ahnu_big_data_platform$settings.coverage" NAME="settings Coverage Results" MODIFIED="1566313491577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../reservation/reservation" />
+    <SUITE FILE_PATH="coverage/ahnu_big_data_platform$views.coverage" NAME="views Coverage Results" MODIFIED="1566370061807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../reservation/reservationapp" />
+    <SUITE FILE_PATH="coverage/ahnu_big_data_platform$settings__1_.coverage" NAME="settings (1) Coverage Results" MODIFIED="1566820903238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ahnu_big_data_platform" />
     <SUITE FILE_PATH="coverage/ahnu_big_data_platform$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1562661493982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
   <component name="DatabaseView">
@@ -278,92 +267,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_22.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="81" column="171" selection-start-line="81" selection-start-column="171" selection-end-line="81" selection-end-column="171" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_23.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="81" column="143" selection-start-line="81" selection-start-column="143" selection-end-line="81" selection-end-column="143" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_24.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="81" column="198" selection-start-line="81" selection-start-column="198" selection-end-line="81" selection-end-column="198" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_25.html">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/chars.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="81" column="131" selection-start-line="81" selection-start-column="131" selection-end-line="81" selection-end-column="131" />
+            <state relative-caret-position="252">
+              <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_16.html">
+        <entry file="file://$PROJECT_DIR$/ahnuapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="81" column="141" selection-start-line="81" selection-start-column="141" selection-end-line="81" selection-end-column="141" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_17.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="81" column="130" selection-start-line="81" selection-start-column="130" selection-end-line="81" selection-end-column="130" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_18.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="81" column="137" selection-start-line="81" selection-start-column="137" selection-end-line="81" selection-end-column="137" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_19.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="81" column="172" selection-start-line="81" selection-start-column="172" selection-end-line="81" selection-end-column="172" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_20.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="81" column="164" selection-start-line="81" selection-start-column="164" selection-end-line="81" selection-end-column="164" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_21.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="81" column="111" selection-start-line="81" selection-start-column="111" selection-end-line="81" selection-end-column="111" />
+            <state relative-caret-position="248">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -380,6 +304,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>achieve</find>
+      <find>recent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -388,32 +313,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/course-single.html" />
-        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/big_data.html" />
-        <option value="$PROJECT_DIR$/ahnuapp/static/scss/bootstrap/mixins/_image.scss" />
-        <option value="$PROJECT_DIR$/ahnuapp/static/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html" />
         <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3.html" />
-        <option value="$PROJECT_DIR$/../reservation/static/css/index1.css" />
-        <option value="$PROJECT_DIR$/../reservation/reservation/settings.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index4.html" />
         <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1.html" />
         <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2.html" />
-        <option value="$PROJECT_DIR$/../reservation/reservationapp/models.py" />
-        <option value="$PROJECT_DIR$/../reservation/reservationapp/views.py" />
-        <option value="D:/python37/Lib/site-packages/django/db/backends/mysql/operations.py" />
-        <option value="$PROJECT_DIR$/ahnuapp/models.py" />
-        <option value="$PROJECT_DIR$/../mysql.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/../spider_paper2.py" />
-        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html" />
-        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teacher1.html" />
-        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievements.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/admin.py" />
+        <option value="$PROJECT_DIR$/../reservation/static/css/index0.css" />
+        <option value="$PROJECT_DIR$/../reservation/static/css/index00.css" />
         <option value="$PROJECT_DIR$/ahnuapp/urls.py" />
-        <option value="$PROJECT_DIR$/ahnuapp/views.py" />
-        <option value="$PROJECT_DIR$/../spider_paper.py" />
-        <option value="$PROJECT_DIR$/ahnu_big_data_platform/settings.py" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html" />
-        <option value="$PROJECT_DIR$/ahnuapp/static/css/style.css" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_1.html" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_2.html" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_3.html" />
@@ -439,12 +347,29 @@
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_23.html" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_24.html" />
         <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_25.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservation/urls.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/urls.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/views.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/static/js/chars.js" />
+        <option value="$PROJECT_DIR$/ahnuapp/views.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3_wx.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1_wx.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2_wx.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index4_wx.html" />
+        <option value="D:/python37/Lib/site-packages/django/contrib/admin/templates/admin/index.html" />
+        <option value="D:/python37/Lib/site-packages/django/contrib/admin/templates/admin/login.html" />
+        <option value="$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index_wx.html" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html" />
+        <option value="$PROJECT_DIR$/ahnu_big_data_platform/settings.py" />
+        <option value="$PROJECT_DIR$/../reservation/reservation/settings.py" />
+        <option value="$PROJECT_DIR$/ahnuapp/templates/ahnuapp/chars.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="180" />
+    <option name="x" value="-460" />
+    <option name="y" value="230" />
     <option name="width" value="1300" />
     <option name="height" value="700" />
   </component>
@@ -473,19 +398,6 @@
               <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
               <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ahnu_big_data_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ahnu_big_data_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="ahnuapp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -498,11 +410,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider_paper.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Django Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -514,11 +426,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\static\images" />
-      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\templates\ahnuapp" />
-      <recent name="D:\python\reservation\reservationapp\static\img" />
+      <recent name="D:\python\reservation" />
+      <recent name="D:\python\reservation\reservationapp" />
+      <recent name="D:\python\ahnu_big_data_platform\ahnuapp\media" />
+      <recent name="D:\python\reservation\media" />
+      <recent name="D:\python\reservation\reservationapp\templates\reservationapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\reservation" />
+      <recent name="D:\python\reservation\reservationapp" />
       <recent name="D:\python\reservation-master" />
       <recent name="D:\python\ahnu_big_data_platform\ahnuapp\static" />
     </key>
@@ -536,7 +452,100 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.server">
-    <configuration name="mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index_wx.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ahnu_big_data_platform/reservationapp/templates/reservationapp/index_wx.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ahnu_big_data_platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ahnu_big_data_platform" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ahnu_big_data_platform/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="reservation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -544,12 +553,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../reservation/reservation" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../reservation/reservation/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -580,7 +589,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spider_paper2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="reservation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -588,12 +597,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../reservation/reservationapp" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../spider_paper2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../reservation/reservationapp/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -602,16 +611,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="Python.DjangoServer" factoryName="Django server">
-      <module name="ahnu_big_data_platform" />
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server" editBeforeRun="true">
+      <module name="reservation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="ahnu_big_data_platform.settings" />
       </envs>
       <option name="SDK_HOME" value="D:\python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../reservation" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -626,11 +634,89 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="server" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ahnu_big_data_platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ahnu_big_data_platform.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.server" />
+      <item itemvalue="JavaScript Debug.index_wx.html" />
+      <item itemvalue="Python.spider_paper" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.settings (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.settings (1)" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="JavaScript Debug.index_wx.html" />
         <item itemvalue="Python.spider_paper" />
-        <item itemvalue="Python.spider_paper2" />
-        <item itemvalue="Python.mysql" />
       </list>
     </recent_temporary>
   </component>
@@ -661,12 +747,54 @@
       <workItem from="1562571570202" duration="70647000" />
       <workItem from="1562804560265" duration="21278000" />
       <workItem from="1562849395305" duration="307000" />
-      <workItem from="1562891314683" duration="3080000" />
+      <workItem from="1562891314683" duration="5117000" />
+      <workItem from="1563013893707" duration="8193000" />
+      <workItem from="1563064226174" duration="11005000" />
+      <workItem from="1563150127171" duration="2458000" />
+      <workItem from="1563152603637" duration="4981000" />
+      <workItem from="1563157674186" duration="4252000" />
+      <workItem from="1563173199049" duration="6889000" />
+      <workItem from="1563186752796" duration="1982000" />
+      <workItem from="1563191879636" duration="3690000" />
+      <workItem from="1563236837854" duration="7487000" />
+      <workItem from="1563262445312" duration="41000" />
+      <workItem from="1563363073275" duration="1325000" />
+      <workItem from="1563409444733" duration="13505000" />
+      <workItem from="1563536132579" duration="16000" />
+      <workItem from="1563789392267" duration="11371000" />
+      <workItem from="1563841301987" duration="21997000" />
+      <workItem from="1563928176784" duration="1581000" />
+      <workItem from="1564049254765" duration="39000" />
+      <workItem from="1564360396464" duration="2711000" />
+      <workItem from="1564369509128" duration="309000" />
+      <workItem from="1564387099496" duration="1149000" />
+      <workItem from="1564389029858" duration="487000" />
+      <workItem from="1566259222264" duration="343000" />
+      <workItem from="1566275728121" duration="8622000" />
+      <workItem from="1566311188365" duration="91000" />
+      <workItem from="1566311293486" duration="557000" />
+      <workItem from="1566311877411" duration="570000" />
+      <workItem from="1566312461901" duration="82000" />
+      <workItem from="1566312607316" duration="1674000" />
+      <workItem from="1566314319704" duration="1410000" />
+      <workItem from="1566316043422" duration="89000" />
+      <workItem from="1566356597804" duration="917000" />
+      <workItem from="1566357542897" duration="4072000" />
+      <workItem from="1566397931700" duration="4605000" />
+      <workItem from="1566649778366" duration="3798000" />
+      <workItem from="1566654262245" duration="5139000" />
+      <workItem from="1566734135771" duration="4227000" />
+      <workItem from="1566739933710" duration="128000" />
+      <workItem from="1566820270744" duration="300000" />
+      <workItem from="1566820590695" duration="331000" />
+      <workItem from="1566821502877" duration="143000" />
+      <workItem from="1566823531694" duration="315000" />
+      <workItem from="1566823868965" duration="3203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173951000" />
+    <option name="totallyTimeSpent" value="322072000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,13 +809,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17761394" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988345" visible="true" weight="0.22319035" />
+      <window_info id="Structure" order="1" sideWeight="0.5011655" side_tool="true" weight="0.18900804" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.25212464" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49865952" visible="true" weight="0.1756374" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -695,390 +823,414 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.2560113" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.24645892" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.2719547" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49865952" weight="0.2719547" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.33144477" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.19235925" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19235925" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$/Desktop/reservation" />
+      <path value="$PROJECT_DIR$/../reservation1" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1.html">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_14.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#select#0;n#p#0;n#form#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#option#0;n#select#0;n#p#0;n#form#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#form#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2.html">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_15.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#select#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#option#0;n#select#0;n#p#0;n#form#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#form#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/python37/Lib/site-packages/django/db/backends/mysql/operations.py">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_16.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="145" column="28" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/models.py">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_17.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/15247314-0a95-483e-8aeb-bd3ba58635be/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mysql.py">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_23.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="53" column="80" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/暑期实践/oneschool/course-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <caret line="4" column="26" lean-forward="true" selection-end-line="446" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="48" column="43" lean-forward="true" selection-end-line="447" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/media/MnhGYLEUPd.txt" />
+    <entry file="file://$PROJECT_DIR$/ahnuapp/media/MnhGYLEUPd.txt" />
+    <entry file="file://$PROJECT_DIR$/../reservation/static/css/index00.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/wsgiref/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/2447473760/FileRecv/静态文件找不到.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/static/js/aos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservation/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#635#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/MnhGYLEUPd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CuckooSearch_Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4587">
+          <caret line="93" column="45" lean-forward="true" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CuckooSearch_Class_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ahnuapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="392">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="das://2ec07541-785e-4972-8096-3d21cf9f7c44/schema/ahnu_db/table/ahnuapp_teacher">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        <state relative-caret-position="280">
+          <caret line="259" column="32" lean-forward="true" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spider_paper2.py" />
-    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/img_2.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/hero_1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="52" column="71" lean-forward="true" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7823">
+          <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/js/aos.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/js/jquery.countdown.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/static/js/chars.js" />
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/site-packages/django/contrib/admin/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index3_wx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="103" selection-start-line="81" selection-start-column="20" selection-end-line="86" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index1_wx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index2_wx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="55" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index4_wx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index_wx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="96" column="67" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reservation/reservationapp/templates/reservationapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python37/Lib/site-packages/django/contrib/admin/templates/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="60" column="75" selection-start-line="60" selection-start-column="75" selection-end-line="60" selection-end-column="75" />
+          <folding>
+            <element signature="e#1765#1771#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="273" column="49" lean-forward="true" selection-start-line="273" selection-start-column="49" selection-end-line="273" selection-end-column="49" />
-          <folding>
-            <element signature="e#25177#25183#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="-840">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/urls.py">
+    <entry file="file://$PROJECT_DIR$/../reservation/reservation/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="25" column="73" lean-forward="true" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spider_paper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/static/images/person_21.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt" />
-    <entry file="file://$PROJECT_DIR$/data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8008">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://15247314-0a95-483e-8aeb-bd3ba58635be/schema/ahnu_db/table/ahnuapp_teacher">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://15247314-0a95-483e-8aeb-bd3ba58635be/schema/ahnu_db/table/auth_permission">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://15247314-0a95-483e-8aeb-bd3ba58635be/schema/ahnu_db/table/ahnuapp_ruser">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnu_big_data_platform/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ahnu_big_data_platform/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="217">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ahnuapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4872">
-          <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+        <state relative-caret-position="248">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="652" column="23" lean-forward="true" selection-start-line="652" selection-start-column="23" selection-end-line="652" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/teachers.html">
+    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/chars.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="81" column="109" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="109" />
+          <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
           <folding>
-            <element signature="e#3552#3558#0#HTML" expanded="true" />
-            <element signature="e#3558#3564#0#HTML" expanded="true" />
-            <element signature="e#3564#3570#0#HTML" expanded="true" />
-            <element signature="e#3570#3576#0#HTML" expanded="true" />
-            <element signature="e#3576#3582#0#HTML" expanded="true" />
-            <element signature="e#3582#3588#0#HTML" expanded="true" />
-            <element signature="e#3588#3594#0#HTML" expanded="true" />
-            <element signature="e#3594#3600#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#strong#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="81" column="109" selection-start-line="81" selection-start-column="109" selection-end-line="81" selection-end-column="109" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3561#3567#0#HTML" expanded="true" />
-            <element signature="e#3567#3573#0#HTML" expanded="true" />
-            <element signature="e#3573#3579#0#HTML" expanded="true" />
-            <element signature="e#3579#3585#0#HTML" expanded="true" />
-            <element signature="e#3585#3591#0#HTML" expanded="true" />
-            <element signature="e#3591#3597#0#HTML" expanded="true" />
-            <element signature="e#3597#3603#0#HTML" expanded="true" />
-            <element signature="e#3603#3609#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="81" column="142" selection-start-line="81" selection-start-column="142" selection-end-line="81" selection-end-column="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="81" column="211" selection-start-line="81" selection-start-column="211" selection-end-line="81" selection-end-column="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="81" column="191" selection-start-line="81" selection-start-column="191" selection-end-line="81" selection-end-column="191" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="81" column="109" selection-start-line="81" selection-start-column="109" selection-end-line="81" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="121" selection-start-line="81" selection-start-column="121" selection-end-line="81" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="81" column="189" selection-start-line="81" selection-start-column="189" selection-end-line="81" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="181" selection-start-line="81" selection-start-column="181" selection-end-line="81" selection-end-column="181" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="132" selection-start-line="81" selection-start-column="132" selection-end-line="81" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="151" selection-start-line="81" selection-start-column="151" selection-end-line="81" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="140" selection-start-line="81" selection-start-column="140" selection-end-line="81" selection-end-column="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="81" column="139" selection-start-line="81" selection-start-column="139" selection-end-line="81" selection-end-column="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="81" column="135" selection-start-line="81" selection-start-column="135" selection-end-line="81" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="81" column="137" selection-start-line="81" selection-start-column="137" selection-end-line="81" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="137" selection-start-line="81" selection-start-column="137" selection-end-line="81" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="81" column="141" selection-start-line="81" selection-start-column="141" selection-end-line="81" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="81" column="130" selection-start-line="81" selection-start-column="130" selection-end-line="81" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="137" selection-start-line="81" selection-start-column="137" selection-end-line="81" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_19.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="81" column="172" selection-start-line="81" selection-start-column="172" selection-end-line="81" selection-end-column="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_20.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="164" selection-start-line="81" selection-start-column="164" selection-end-line="81" selection-end-column="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_21.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="111" selection-start-line="81" selection-start-column="111" selection-end-line="81" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_22.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="171" selection-start-line="81" selection-start-column="171" selection-end-line="81" selection-end-column="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_23.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="81" column="143" selection-start-line="81" selection-start-column="143" selection-end-line="81" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_24.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="81" column="198" selection-start-line="81" selection-start-column="198" selection-end-line="81" selection-end-column="198" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahnuapp/templates/ahnuapp/achievement_25.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="81" column="131" selection-start-line="81" selection-start-column="131" selection-end-line="81" selection-end-column="131" />
         </state>
       </provider>
     </entry>

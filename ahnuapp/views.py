@@ -36,6 +36,23 @@ def teachers(request):
 
 
 @login_required
+def chars(request):
+    count = []
+    year = []
+    b = '1990'
+    all = Teacher.objects.all().order_by('year')
+    for i in all:
+        if b == i.year:
+            continue
+        b = i.year
+        a = Teacher.objects.filter(year=i.year)
+        year.append(int(b))
+        count.append(a.count())
+        table = zip(year, count)
+    return render(request, 'ahnuapp/chars.html', {'all': all, 'table': table, 'year': year, 'count': count})
+
+
+@login_required
 def achievement_1(request):
     teacher1 = Teacher.objects.filter(name='罗永龙')
     return render(request, 'ahnuapp/achievement_1.html', {'teacher1': teacher1})

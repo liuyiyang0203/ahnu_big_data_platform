@@ -14,15 +14,12 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
-    <orderEntry type="module" module-name="reservation" />
+    <orderEntry type="library" name="highcharts" level="application" />
+    <orderEntry type="library" name="exporting" level="application" />
+    <orderEntry type="library" name="highcharts-zh_CN" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
